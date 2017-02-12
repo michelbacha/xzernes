@@ -31,7 +31,7 @@ class UsersRequest extends Request
             'password' => 'required',
             'role_id' => 'required',
             'is_active' => 'required',
-            'photo_id' => 'requested',
+
 
         ];
     }
